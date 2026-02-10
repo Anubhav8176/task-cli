@@ -2,6 +2,8 @@
 
 A simple command-line task tracking application that helps you manage your tasks with different statuses. Tasks are stored in a JSON file for persistence.
 
+**Project Source:** This project is from [roadmap.sh's Backend Projects](https://roadmap.sh/projects/task-tracker) list.
+
 ## Features
 
 - Add new tasks with auto-incrementing IDs
@@ -138,6 +140,10 @@ python task_tracker.py list done
 # Delete a task
 python task_tracker.py delete 3
 ```
+
+## About This Project
+
+This is a solution to the [Task Tracker](https://roadmap.sh/projects/task-tracker) project from [roadmap.sh](https://roadmap.sh/)'s backend development project list. The goal is to practice building a CLI application with CRUD operations and file-based data persistence.
 
 ## Contributing
 
